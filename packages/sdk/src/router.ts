@@ -35,7 +35,7 @@ export function createRouter({ get, manifest }: AddonInterface) {
     // Match resource route.
     const [resourceMatches, resourceMatch] = matchRoute<ResourceParams>(
       `${routePrefix}/:resource/:type/:id{/:extra}.json`,
-      pathname,
+      pathname.replace(/:/g, "%3A"),
     );
     if (resourceMatches) {
       const {
