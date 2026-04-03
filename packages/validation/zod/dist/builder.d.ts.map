@@ -1,0 +1,1 @@
+{"version":3,"file":"builder.d.ts","sourceRoot":"","sources":["../src/builder.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,IAAI,gBAAgB,EAAE,MAAM,oBAAoB,CAAC;AACtE,OAAO,KAAK,CAAC,MAAM,QAAQ,CAAC;AAC5B,OAAO,EAAE,cAAc,EAAE,MAAM,eAAe,CAAC;AAE/C,qBAAa,YAAa,SAAQ,gBAAgB;gBACpC,QAAQ,EAAE,CAAC,CAAC,KAAK,CAAC,OAAO,cAAc,CAAC;CAGrD"}
